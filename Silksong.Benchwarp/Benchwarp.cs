@@ -23,10 +23,6 @@ namespace Benchwarp
         {
             instance = this;
             log = BepInEx.Logging.Logger.CreateLogSource("Benchwarp");
-            On.SteamOnlineSubsystem.ctor += (orig, self, platform) =>
-            {
-                return;
-            };
         }
 
         private void Start()
@@ -34,11 +30,12 @@ namespace Benchwarp
             Hooks.Hook();
 
             GUIController.Setup();
+            
             GUIController.Instance.BuildMenus();
 
             if (LS.benchDeployed && GameManager.instance.sceneName == LS.benchScene)
             {
-                BenchMaker.MakeDeployedBench(); // Since the mod could be reenabled in any scene
+                BenchMaker.MakeDeployedBench();
             }
 
             if (GS.LegacyHotkeys)
@@ -47,6 +44,7 @@ namespace Benchwarp
             }
 
             Hotkeys.RefreshHotkeys();
+            
         }
 
 
