@@ -1,0 +1,1164 @@
+[
+  {
+    "name": "Sprintmaster",
+    "areaName": "Other",
+    "sceneName": "Sprintmaster_Cave",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Moss Mother",
+    "areaName": "Moss Grotto",
+    "sceneName": "Tut_03",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Snail Shamans",
+    "areaName": "Moss Grotto",
+    "sceneName": "Tut_04",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Druid",
+    "areaName": "Mosshome",
+    "sceneName": "Mosstown_02c",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Curse",
+    "areaName": "Mosshome",
+    "sceneName": "Mosstown_03",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Wormways",
+    "areaName": "Other",
+    "sceneName": "Crawl_08",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Bellhart",
+    "areaName": "Bellhart",
+    "sceneName": "Belltown",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Widow",
+    "areaName": "Bellhart",
+    "sceneName": "Belltown_Shrine",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Bellway",
+    "areaName": "Far Fields",
+    "sceneName": "Bellway_03",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Bellway",
+    "areaName": "Blasted Steps",
+    "sceneName": "Bellway_08",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Grand Bellway",
+    "areaName": "Choral Chambers",
+    "sceneName": "Bellway_City",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Lower Left",
+    "areaName": "Mount Fay",
+    "sceneName": "Bellway_Peak",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Bellway",
+    "areaName": "Bilewater",
+    "sceneName": "Bellway_Shadow",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Bellway",
+    "areaName": "Putrified Ducts",
+    "sceneName": "Bellway_Aqueduct",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Bellshrine",
+    "areaName": "The Marrow",
+    "sceneName": "Bellshrine",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Bellshrine",
+    "areaName": "Gerymoor",
+    "sceneName": "Bellshrine_02",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Bellshrine",
+    "areaName": "Shellwood",
+    "sceneName": "Bellshrine_03",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Bellshrine",
+    "areaName": "Deep Docks",
+    "sceneName": "Bellshrine_05",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "First Shrine",
+    "areaName": "Choral Chambers",
+    "sceneName": "Bellshrine_Enclave",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Sands Of Karak",
+    "areaName": "Other",
+    "sceneName": "Bellshrine_Coral",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Bone Bottom",
+    "areaName": "Other",
+    "sceneName": "Bonetown",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Lower Toll",
+    "areaName": "The Marrow",
+    "sceneName": "Bone_01c",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Bell Beast",
+    "areaName": "The Marrow",
+    "sceneName": "Bone_04",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Flea Caravan",
+    "areaName": "The Marrow",
+    "sceneName": "Bone_10",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Prison",
+    "areaName": "The Marrow",
+    "sceneName": "Bone_12",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Trap Bench",
+    "areaName": "Hunter's March",
+    "sceneName": "Ant_17",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Toll",
+    "areaName": "Deep Docks",
+    "sceneName": "Dock_01",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Escape",
+    "areaName": "Deep Docks",
+    "sceneName": "Dock_06_Church",
+    "respawnMarker": "RestBench (1)",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Sauna",
+    "areaName": "Deep Docks",
+    "sceneName": "Dock_10",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Lace",
+    "areaName": "Deep Docks",
+    "sceneName": "Room_Forge",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Pilgrim's Rest",
+    "areaName": "Far Fields",
+    "sceneName": "Bone_East_10_Room",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "West",
+    "areaName": "Far Fields",
+    "sceneName": "Bone_East_15",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Weavenest Murglin",
+    "areaName": "Far Fields",
+    "sceneName": "Bone_East_Weavehome",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Seamstress",
+    "areaName": "Far Fields",
+    "sceneName": "Bone_East_Umbrella",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Halfway Home",
+    "areaName": "Greymoor",
+    "sceneName": "Halfway_01",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Shakra",
+    "areaName": "Greymoor",
+    "sceneName": "Greymoor_02",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Moorwing",
+    "areaName": "Greymoor",
+    "sceneName": "Greymoor_08",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "West",
+    "areaName": "Sinner's Road",
+    "sceneName": "Dust_10",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Styx",
+    "areaName": "Sinner's Road",
+    "sceneName": "Dust_11",
+    "respawnMarker": "RestBench (1)",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Exhaust Organ",
+    "areaName": "Other",
+    "sceneName": "Organ_01",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Trap",
+    "areaName": "Bile Water",
+    "sceneName": "Shadow_15",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Groal the Great",
+    "areaName": "Bile Water",
+    "sceneName": "Shadow_18",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Wisp Thicket",
+    "areaName": "Other",
+    "sceneName": "Wisp_04",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "East",
+    "areaName": "Shellwood",
+    "sceneName": "Shellwood_01b",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "West",
+    "areaName": "Shellwood",
+    "sceneName": "Shellwood_08c",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Lower",
+    "areaName": "Blasted Steps",
+    "sceneName": "Coral_02",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Coral Tower",
+    "areaName": "Blasted Steps",
+    "sceneName": "Coral_Tower_01",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Last Judge",
+    "areaName": "Blasted Steps",
+    "sceneName": "Coral_Judge_Arena",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Lower West",
+    "areaName": "Underworks",
+    "sceneName": "Under_01b",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Entrance",
+    "areaName": "Choral Chambers",
+    "sceneName": "Under_07b",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Triple Toll",
+    "areaName": "Underworks",
+    "sceneName": "Under_08",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Architect",
+    "areaName": "Underworks",
+    "sceneName": "Under_17",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Mid West",
+    "areaName": "Choral Chambers",
+    "sceneName": "Song_01b",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Spa",
+    "areaName": "Choral Chambers",
+    "sceneName": "Song_10",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Central",
+    "areaName": "Choral Chambers",
+    "sceneName": "Song_18",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Songclave",
+    "areaName": "Choral Chambers",
+    "sceneName": "Song_Enclave",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Terminus",
+    "areaName": "Other",
+    "sceneName": "Tube_Hub",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Whiteward",
+    "areaName": "Other",
+    "sceneName": "Ward_01",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Vaultkeeper",
+    "areaName": "The Vault",
+    "sceneName": "Library_08",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Lower",
+    "areaName": "The Vault",
+    "sceneName": "Library_10",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Entrace",
+    "areaName": "High Halls",
+    "sceneName": "Hang_01",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Gauntlet",
+    "areaName": "High Halls",
+    "sceneName": "Hang_06b",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Memorium",
+    "areaName": "Other",
+    "sceneName": "Arborium_04",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Cogwork Core",
+    "areaName": "Other",
+    "sceneName": "Cog_Bench",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Suface Lower",
+    "areaName": "Other",
+    "sceneName": "Cradle_Destroyed_Challenge_Bench",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Bellway",
+    "areaName": "Slab",
+    "sceneName": "Slab_06",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Upper",
+    "areaName": "Slab",
+    "sceneName": "Slab_16",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Broodmother",
+    "areaName": "Slab",
+    "sceneName": "Slab_16",
+    "respawnMarker": "RestBench (1)",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Middle",
+    "areaName": "Slab",
+    "sceneName": "Slab_20",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Shakra",
+    "areaName": "Mount Fay",
+    "sceneName": "Peak_02",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Middle",
+    "areaName": "Mount Fay",
+    "sceneName": "Peak_07",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Peak",
+    "areaName": "Mount Fay",
+    "sceneName": "Peak_12",
+    "respawnMarker": "RestBench (1)",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Weavenest Atla",
+    "areaName": "Other",
+    "sceneName": "Weave_07",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Verdania",
+    "areaName": "Other",
+    "sceneName": "Clover_20",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Escape",
+    "areaName": "Abyss",
+    "sceneName": "Abyss_09",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Final Dive",
+    "areaName": "Abyss",
+    "sceneName": "Abyss_12",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Pinstress",
+    "areaName": "Blasted Steps",
+    "sceneName": "Room_Pinstress",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Huntress",
+    "areaName": "Putrified Ducts",
+    "sceneName": "Room_Huntress",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Diving Bell",
+    "areaName": "Deep Docks",
+    "sceneName": "Room_Diving_Bell",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Diving Bell",
+    "areaName": "Abyss",
+    "sceneName": "Room_Diving_Bell_Abyss_Fixed",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Bellhome",
+    "areaName": "Bellhart",
+    "sceneName": "Belltown_Room_Spare",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Hidden",
+    "areaName": "Bilewater",
+    "sceneName": "Shadow_08",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  },
+  {
+    "name": "Upper",
+    "areaName": "Far Fields",
+    "sceneName": "Bone_East_27",
+    "respawnMarker": "RestBench",
+    "respawnType": 1,
+    "mapZone": "NONE",
+    "style": "Right",
+    "specificOffset": {
+      "x": 0.0,
+      "y": -0.68,
+      "z": 0.0
+    }
+  }
+]
